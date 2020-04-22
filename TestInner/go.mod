@@ -1,3 +1,3 @@
-module github.com/MToolMakerJB/Test/Inner
+module github.com/MToolMakerJB/Test/TestInner
 
 go 1.13
